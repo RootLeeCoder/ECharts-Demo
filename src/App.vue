@@ -1,7 +1,5 @@
 <template>
 	<div id="app">
-		<!-- <img alt="Vue logo" src="./assets/logo.png">
-	<HelloWorld msg="Welcome to Your Vue.js App"/> -->
 		<div id="main" style="width: 900px; height:600px;"></div>
 	</div>
 </template>
@@ -228,17 +226,5 @@
 </script>
 
 <style>
-	/* #app {
-		font-family: 'Avenir', Helvetica, Arial, sans-serif;
-		-webkit-font-smoothing: antialiased;
-		-moz-osx-font-smoothing: grayscale;
-		text-align: center;
-		color: #2c3e50;
-		margin-top: 60px;
-	} */
-
-	#main {
-		/* margin: 0 auto; */
-		/* margin-left: 100px; */
-	}
+	
 </style>
